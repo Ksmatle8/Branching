@@ -1,5 +1,9 @@
 ## Git Branching
 
+### General 'git' Commands
+
+* 'git init' - Create Git repo
+
 ### Branching Commands
 
 * 'git Branching' - List branches, show current branch

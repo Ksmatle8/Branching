@@ -14,4 +14,6 @@
 
 * 'git status' - List
 
-*TODO - checkout -b 
+*TODO - checkout -b changed on master
+
+* more stuff on master branch

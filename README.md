@@ -10,4 +10,6 @@
 
 * "git branchName" - Create branch "branchName"
 
-* 'git checkout branchName' - Make 'branchName ' the current branch in working
+* 'git checkout branchName' - Make 'branchName ' the current branch in working directory
+
+* 'git status' - List

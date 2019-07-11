@@ -8,4 +8,4 @@
 
 * 'git checkout branchName' - Make 'branchName ' the current branch in working directory
 
-* something
+* 'git status' - List 

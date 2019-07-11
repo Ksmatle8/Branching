@@ -16,3 +16,5 @@
 
 *'TODO - checkout -b 'branchName' - Create Branching
 'branchName' and check it out.
+
+*TODO - checkout -b changed on master

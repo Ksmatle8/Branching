@@ -13,3 +13,5 @@
 * 'git checkout branchName' - Make 'branchName ' the current branch in working directory
 
 * 'git status' - List
+
+* Need some more git Commands

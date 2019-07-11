@@ -14,6 +14,7 @@
 
 * 'git status' - List
 
-*TODO - checkout -b changed on master
+*'TODO - checkout -b 'branchName' - Create Branching
+'branchName' and check it out.
 
-* more stuff on master branch
+*TODO - checkout -b changed on master

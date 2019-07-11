@@ -14,4 +14,5 @@
 
 * 'git status' - List
 
-* Need some more git Commands
+*'TODO - checkout -b 'branchName' - Create Branching
+'branchName' and check it out.
